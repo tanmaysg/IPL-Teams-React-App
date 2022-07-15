@@ -36,17 +36,16 @@ const[data, setData] = useState([]);
             <div class="content">
                 {
                     data.map((data)=>(
-                        <div class="teams">
+                        <Link to="/players"><div class="teams">
                                 <div class="image">
                                     <img src={data.team_image_url} alt="team_logo"></img>
                                 </div>
                                 <div class="name">
                                     <h3>{data.name}</h3>
                                 </div>
-                                <Link to="/players">Players</Link>
                                 <div>
                             </div>
-                            </div> 
+                        </div></Link>
                         )
                     )
                 }
