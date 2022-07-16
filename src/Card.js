@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css"
 
-function Card({a, b}){
+function Card({a,b}){
     let string=`/player-images/${a.Id}.jpg`;
 
     return(

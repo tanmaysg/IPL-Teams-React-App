@@ -3,6 +3,8 @@
 .App{
     margin: 0;
     font-family: Helvetica, sans-serif;
+    background-image: url("./ipl_logo_background.jpg");
+    background-size: cover;
   }
   
   .card_header {

@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from "react";
-import { Outlet, Link } from "react-router-dom";
+import {Link } from "react-router-dom";
 import "./Teams.css";
 import logo from "./ipl.png";
 
@@ -29,8 +29,7 @@ const[data, setData] = useState([]);
                     <li>
                         <Link to="/" class="team_option">Teams</Link>
                     </li>
-                </ul>   
-                <Outlet />
+                </ul>
             </div>
 
             <div class="content">
