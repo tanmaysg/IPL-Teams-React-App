@@ -2,6 +2,8 @@
     margin: 0;
     overflow: auto;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('./stadium_background.jpg');
+    background-size: cover;
 }
 
 .header{
@@ -43,7 +45,7 @@
     font-size: 1.5vw;
     color: red;
     font-weight: bold;
-    letter-spacing: 5px;
+    letter-spacing: 0.5etvw;
     text-decoration: underline;
 }
 
