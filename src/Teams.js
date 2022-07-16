@@ -27,7 +27,7 @@ const[data, setData] = useState([]);
             <div class="option">
                 <ul>
                     <li>
-                        <Link to="/" class="team_option">Teams</Link>
+                        <Link to="/" class="team_option">TEAMS  </Link>
                     </li>
                 </ul>
             </div>

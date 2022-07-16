@@ -1,0 +1,12 @@
+[{"name":"Rohit Sharma","id":"Ro","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/107.png","matches":12, "runs":230},
+{"name":"Hardik Pandya","id":"HP","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/2740.png","matches":10, "runs":120},
+{"name":"Surya Kumar Yadav","id":"SKY","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/108.png","matches":2, "runs":29},
+{"name":"Kieron Pollard ","id":"KP","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/210.png","matches":9, "runs":90},
+{"name":"M.S. Dhoni","id":"MSD","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/1.png","matches":4, "runs":70},
+{"name":"Rishabh Pant","id":"RP","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/2972.png","matches":6, "runs":72},
+{"name":"Ajinkya Rahane","id":"Jinx","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/135.png","matches":9, "runs":39},
+{"name":"KL Rahul","id":"KL","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/1125.png","matches":13, "runs":232},
+{"name":"Shikhar Dhawan","id":"SD","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/41.png","matches":8, "runs":42},
+{"name":"Jos Buttler","id":"Jinx","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/509.png","matches":4, "runs":53},
+{"name":"Virat Kohli","id":"Jinx","player_image_url":"https://assets.iplt20.com/ipl/IPLHeadshot2022/164.png","matches":12, "runs":249}
+]

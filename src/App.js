@@ -1,7 +1,8 @@
 import './App.css';
 import {BrowserRouter as Router, Switch, Route, Redirect,} from "react-router-dom";
 import Teams from './Teams';
-import Fetch from "./Fetch";
+import Players from "./Players";
+
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
       <Router>
         <Switch>
           <Route exact path="/" component={Teams} />
-          <Route path="/players" component={Fetch} />
+          <Route path="/players" component={Players} />
         </Switch>
       </Router>
     </div>

@@ -4,6 +4,7 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-image: url('./stadium_background.jpg');
     background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,0.4);
 }
 
 .header{
@@ -15,6 +16,7 @@
     align-items: center;
     background-color: rgb(83, 86, 255);
     box-shadow: 0 0 20px rgba(136, 136, 136, 0.644);
+    padding: 0;
 }
 
 .header .logo{
@@ -33,7 +35,7 @@
 }
 
 .option{
-    padding-top: 10vw;
+    margin-top: 11vw;
 }
 
 .option ul{
@@ -43,10 +45,11 @@
 
 .option ul .team_option{
     font-size: 1.5vw;
-    color: red;
+    color: rgb(0, 0, 0);
     font-weight: bold;
     letter-spacing: 0.5etvw;
     text-decoration: underline;
+    padding: 0.5vw;
 }
 
 .content{

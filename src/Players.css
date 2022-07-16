@@ -1,0 +1,52 @@
+.main_container{
+    margin: 0;
+    max-width: 100%;
+    overflow: auto;
+    background-image: url("https://images.clipartlogo.com/files/istock/previews/9417/94178945-background-for-posters-night-cricket-stadium-in-the-spotlight-vector.jpg");
+}
+
+.container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 10vw);
+    column-gap: 22vw;
+    
+}
+
+.card_content{
+    width: 25vw;
+    margin: 5vw;
+    background-color: rgb(255, 223, 81);
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 500ms;
+}
+
+.card_content:hover{
+    width: 26vw;
+    margin: 4vw;
+    box-shadow: 10px 10px 20px rgba(128, 128, 128, 0.753);
+}
+
+.card_content .image{
+    max-width: 100%;
+}
+
+.card_content .image img{
+    max-width: 100%;
+}
+
+.card_content .info h2{
+    font-size: 2vw;
+    width: 100%;
+    background-color: rgb(64, 64, 255);
+    color: white;
+}
+
+.card_content .info p{
+    font-size: 1vw;
+    color: white;
+    background-color: red;
+    font-weight: bold;
+}
